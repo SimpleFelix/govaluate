@@ -8,6 +8,13 @@ govaluate
 
 Provides support for evaluating arbitrary C-like artithmetic/string expressions.
 
+This forked branch Added go.mod file for supporting go module.
+
+Installation
+--
+
+`go get github.com/SimpleFelix/govaluate/v3@v3.0.3`
+
 Why can't you just write these expressions in code?
 --
 
